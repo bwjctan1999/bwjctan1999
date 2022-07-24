@@ -11,5 +11,11 @@ An ICT4D Project being created for The Pangantucan Community High School located
 
 PCHS is a Filipino Catholic Jesuit Mission School. It aims to become a leading Agricultural High School that produces academically competent, agriculturally connected, Christ-centered, culturally sensitive, and conscientious high school graduates.
 
+![image](https://user-images.githubusercontent.com/55311935/180648174-3a14b54e-5b50-401f-a2e2-cf03978b6d92.png)
+
+![image](https://user-images.githubusercontent.com/55311935/180648198-d6ada859-ad6d-4caa-9bd8-eab806f2414d.png)
+
+![image](https://user-images.githubusercontent.com/55311935/180648191-ae77f9d0-c865-4151-9c80-9f1bd6052172.png)
+
 
 ### College Thesis
