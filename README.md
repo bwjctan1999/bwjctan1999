@@ -1,11 +1,13 @@
 # Hello there,
-I am Benz Walter Jacques C. Tan, I love programming and art and I try to combine these two in my works.
+I am **Benz Walter Jacques C. Tan**, I love programming and art and I try to combine these two in my works. I am currently studying Web development
 
 ## My Stuff
 
 ### PCHS Library Manager
 
 ![alt text](https://github.com/bwjctan1999/bwjctan1999/blob/main/PCHS%20Library%20Manager/PCHS%20Logo-Name.png?raw=true)
+
+- Visual Basic, MySQL
 
 An ICT4D Project being created for The Pangantucan Community High School located in Pangantucan, Bukidnon. This project aims to digitalize the School's Library Management System.
 
