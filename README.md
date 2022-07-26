@@ -1,5 +1,5 @@
 # Hello there,
-I am **Benz Walter Jacques C. Tan**, I love programming and art and I try to combine these two in my works. I am currently studying Web development
+I am **Benz Walter Jacques C. Tan**, I have a great fondness for programming and problem solving. I also love art and I try to apply it in the things I do. I usually work with JavaScript, Visual Basic, and Java. I am currently learning Web development.
 
 <space>
 
