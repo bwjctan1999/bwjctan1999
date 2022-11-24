@@ -4,7 +4,19 @@ I am **Benz Walter Jacques C. Tan**, I have a great fondness for programming and
 <space>
 
 ## My Recent Works
+  
+### Turnkey
 
+> ❖ **REACT.js**   ❖ **JavaScript**   ❖ **REST api**  
+  
+Turnkey is a web application developed during an internship at Fligno Software Philippines, Inc. It is a hosting service for apartments, condominiums, co-ops etc. that are both for sale and for rent. This is the repository for the frontend side of the application.
+
+![Screenshot_1](https://user-images.githubusercontent.com/55311935/203859944-99b7d7f2-bdb0-467b-99dc-50ffc2c343c9.png)
+  
+![Screenshot_9](https://user-images.githubusercontent.com/55311935/203859955-0a02e357-20b0-4fc9-97b3-f18fe55966c1.png)
+  
+<space>
+  
 ### PCHS Library Manager
 
 > ❖ **Visual Basic**   ❖ **MySQL**
