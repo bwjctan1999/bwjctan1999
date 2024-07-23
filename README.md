@@ -9,7 +9,7 @@ I am **Benz Walter Jacques C. Tan**, I am a frontend engineer who has a great fo
 
 > ❖ **REACT.js**   ❖ **JavaScript**   ❖ **REST api**  
   
-Turnkey is a web application developed during an internship at Fligno Software Philippines, Inc. It is a hosting service for apartments, condominiums, co-ops etc. that are both for sale and for rent. This is the repository for the frontend side of the application.
+Turnkey is a web application developed during an internship at Fligno Software Philippines, Inc. It is a hosting service for apartments, condominiums, co-ops etc. that are both for sale and for rent. In this project I was the lead designer and lone frontend developer. This is the repository for the frontend side of the application.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/55311935/203859944-99b7d7f2-bdb0-467b-99dc-50ffc2c343c9.png)
   
