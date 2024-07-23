@@ -1,5 +1,5 @@
 # Hello there,
-I am **Benz Walter Jacques C. Tan**, I have a great fondness for programming and problem solving. I also love art and I try to apply it in the things I do. I usually work with JavaScript, Visual Basic, MySQL, and Java. I am currently working on Web Developmenta and Mobile App Development.
+I am **Benz Walter Jacques C. Tan**, I am a frontend engineer who has a great fondness for programming and problem solving. I also love art and I try to apply it in the things I do. I usually work with TypeScript, React, React Native, Nativesript and Angular however I always strive to learn more. I am currently working in enterprise Mobile and Web development.
 
 <space>
 
